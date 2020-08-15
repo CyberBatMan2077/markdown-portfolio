@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+- apples
+- bananas
+- pinapples
+1. haha
+2. hahaaa
